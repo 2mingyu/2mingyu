@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2mingyu&show_icons=true&theme=graywhite)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2mingyu&layout=compact&hide=jupyter%20notebook)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2_mingyu)](https://solved.ac/2_mingyu)
+
 <!--
 **2mingyu/2mingyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
