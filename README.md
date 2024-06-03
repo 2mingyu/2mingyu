@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
-
+<!--
   ## Exposure To
 
   #### Languages
@@ -83,7 +83,7 @@
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSP-000000?style=flat-square&logo=JSP&logoColor=black"/>
   <img src="https://img.shields.io/badge/MATLAB-000000?style=flat-square&logo=MATLAB&logoColor=black"/>
-
+-->
 
   ## GitHub Stats & Top Languages
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2mingyu&show_icons=true&theme=graywhite)
