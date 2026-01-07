@@ -86,12 +86,6 @@
   <img src="https://img.shields.io/badge/MATLAB-000000?style=flat-square&logo=MATLAB&logoColor=black"/>
 -->
 
-  ## GitHub Stats & Top Languages
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2mingyu&show_icons=true&theme=graywhite)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2mingyu&layout=compact&hide=jupyter%20notebook&langs_count=10&exclude_repo=pyupbit2mg,AlgorithmStudy_2023,inu-web-study)
-
-  ## Solved.ac
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2_mingyu)](https://solved.ac/2_mingyu)
 </div>
 
 
